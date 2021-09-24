@@ -1,0 +1,1 @@
+Algoritmo inicial de controle do banco de dados SQLite em Python, desenvolvido para o projeto de pesquisa Criação de plataforma para consulta da qualidade das águas subterrâneas, superficiais e de abastecimento do Estado do Rio Grande do Sul, registrado sob o número PES-2020-0516 na Universidade Federal da Fronteira Sul (UFFS). 
